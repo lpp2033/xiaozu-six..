@@ -8,5 +8,6 @@ public class addcontroller {
         System.out.println("组员裴信洁第二次提交了");
         System.out.println("克隆最新版，然后再修改提交，注意解决冲突！！！");
         System.out.println("组员李盼盼提交了");
+        System.out.println("组员李盼盼第二次提交了");
     }
 }
